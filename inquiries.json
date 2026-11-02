@@ -1,0 +1,14 @@
+[
+  {"id": 1, "text": "My order still hasn't arrived. The order number is A-1021. It's been a week since the estimated ship date.", "team": "shipping", "urgent": false},
+  {"id": 2, "text": "The mug I received was broken. Can I return it and get a refund?", "team": "returns", "urgent": false},
+  {"id": 3, "text": "My credit card was charged twice for the same order! Please fix this today.", "team": "payment", "urgent": true},
+  {"id": 4, "text": "Is this backpack waterproof? I'd like to use it for my commute on rainy days.", "team": "product", "urgent": false},
+  {"id": 5, "text": "I need this to arrive in time for a birthday tomorrow, but I entered the wrong shipping address. Can you change it right away?", "team": "shipping", "urgent": true},
+  {"id": 6, "text": "I always enjoy browsing your store. Could you send me a catalog of your new products?", "team": "other", "urgent": false},
+  {"id": 7, "text": "The size didn't fit, so I'd like to exchange it. It's unused and the tags are still on.", "team": "returns", "urgent": false},
+  {"id": 8, "text": "I chose to pay by bank transfer, but I never received the email with the payment details. The payment deadline is tomorrow.", "team": "payment", "urgent": true},
+  {"id": 9, "text": "I've contacted you three times and never gotten a reply. I'm never shopping here again. If you don't refund me, I'm filing a complaint with the Better Business Bureau.", "team": "returns", "urgent": true},
+  {"id": 10, "text": "How many years is the warranty on this electric kettle?", "team": "product", "urgent": false},
+  {"id": 11, "text": "Could you reissue my receipt with my company name on it?", "team": "payment", "urgent": false},
+  {"id": 12, "text": "Are you hiring? I'd like to work at your warehouse.", "team": "other", "urgent": false}
+]
